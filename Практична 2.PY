@@ -10,6 +10,7 @@ else:
     print("ERROR")
 
 if type(age) == int:
+    print(type(age))
     print(list[0])
 else:
     print("ERROR")
